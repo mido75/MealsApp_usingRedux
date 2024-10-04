@@ -21,5 +21,14 @@ After installing and starting the app:
   3) Favorite meals by clicking the star button in the top-right corner of the meal details screen.
   4) Use filters to limit the displayed meals according to your preferences.
    
-https://github.com/user-attachments/assets/87c0bee1-021f-4cc5-8063-d271eb816ff3
+#Technologies Used
+
+React Native
+Redux Toolkit
+React Navigation
+Expo
+
+https://github.com/user-attachments/assets/ec3504f5-2ee2-4cf9-b69d-1a8e6e9dffca
+
+
 
