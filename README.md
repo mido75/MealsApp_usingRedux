@@ -23,10 +23,10 @@ After installing and starting the app:
    
 #Technologies Used
 
-React Native
-Redux Toolkit
-React Navigation
-Expo
+1) React Native
+2) Redux Toolkit
+3) React Navigation
+4) Expo
 
 https://github.com/user-attachments/assets/ec3504f5-2ee2-4cf9-b69d-1a8e6e9dffca
 
